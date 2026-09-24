@@ -47,7 +47,7 @@ offers:
           service: IdentiKyc White Label or SDK solution
       consideration:
         kind: variable
-        description: The startup pays the other 50% of the White Label or SDK setup fee, which IdentiKyc sets based on the customer's needs.
+        description: The startup receives a 50% discount on White Label/SDK activation costs, plus 3 free months after go-live.
     eligibility:
       rule:
         criterion_id: cri_01
@@ -60,7 +60,7 @@ offers:
     access:
       availability: public
       method: contact
-      url: https://identikyc.com/en/contacts-en/
+      url: https://identikyc.com/en/for-companies-en/
     source_ids:
       - src_4ce9b0ca29046b16bab4483befc097dd23a976eb4d8a60b7a708c8c39bde31d0
       - src_5f0974165ecd4686fe3224d5b50b52fef09d39a373fca8c7449bf4711c65db77
