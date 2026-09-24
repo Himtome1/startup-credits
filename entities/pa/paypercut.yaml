@@ -10,6 +10,7 @@ entity:
       valid_from: 2026-09-02T07:14:21.792Z
   category: payments-fintech
 profile:
+  summary: Paypercut provides online checkout, payment links and QR codes, billing, and payouts for businesses in Europe.
   description: Paypercut provides online checkout, billing, payment links, and managed-payout infrastructure for European businesses.
   links:
     site: https://paypercut.com
