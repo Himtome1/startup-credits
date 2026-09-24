@@ -10,6 +10,7 @@ entity:
       valid_from: 2025-11-19T07:51:49.000Z
   category: auth-security
 profile:
+  summary: IdentiKyc is an AI-based digital identity verification platform that companies integrate through an API, SDK, or white-label app to onboard and authenticate users.
   description: IdentiKyc provides digital identity onboarding and verification through APIs, SDKs, white-label apps, biometric checks, and a web dashboard.
   links:
     site: https://identikyc.com/en/home-en/
@@ -23,8 +24,8 @@ offers:
   - offer_id: off_01m1gjnnyetchhk64xjyb11z74
     offer_slug: startup-white-label-and-sdk-discount
     offer_slug_aliases: []
-    title: 50% off activation and three free months
-    summary: Registered innovative startups receive 50% off IdentiKyc White Label or SDK activation costs and three free months after go-live.
+    title: 50% off White Label or SDK activation and 3 free months
+    summary: Registered innovative startups get a 50% discount on IdentiKyc White Label or SDK activation costs, plus 3 free months after go-live.
     lifecycle:
       status: active
       effective_from: 2026-09-02T08:09:52.846Z
@@ -32,21 +33,21 @@ offers:
       benefits:
         - benefit_id: ben_01
           applies_to: IdentiKyc White Label and SDK activation costs
-          description: 50% off customized White Label or SDK setup and activation costs
+          description: 50% discount on White Label or SDK activation costs
           kind: discount
           percentage:
             basis_points: 5000
             kind: exact
         - benefit_id: ben_02
-          description: Three free months of the approved IdentiKyc solution after go-live
+          description: 3 free months after go-live
           duration:
             kind: exact
             value: P3M
           kind: free-service
-          service: Approved IdentiKyc White Label or SDK solution
+          service: IdentiKyc White Label or SDK solution
       consideration:
         kind: variable
-        description: The startup pays the remaining discounted activation cost; IdentiKyc customizes White Label and SDK setup fees to the customer's needs.
+        description: The startup pays the other 50% of the White Label or SDK setup fee, which IdentiKyc sets based on the customer's needs.
     eligibility:
       rule:
         criterion_id: cri_01
@@ -58,9 +59,8 @@ offers:
       access_operator_entity_id: ent_01m1gjnny7gj9n4718e948jg8v
     access:
       availability: public
-      method: form
+      method: contact
       url: https://identikyc.com/en/contacts-en/
-      instructions: Submit the contact form and ask IdentiKyc about its discount for registered innovative startups.
     source_ids:
       - src_4ce9b0ca29046b16bab4483befc097dd23a976eb4d8a60b7a708c8c39bde31d0
       - src_5f0974165ecd4686fe3224d5b50b52fef09d39a373fca8c7449bf4711c65db77
