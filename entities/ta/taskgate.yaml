@@ -38,15 +38,14 @@ offers:
     economics:
       benefits:
         - benefit_id: ben_01
-          applies_to: TaskGate.io Annual Package
-          description: Discounted pricing of up to 50% off regular rates on the Annual Package
+          description: Discounted Pricing up to 50% off regular rates on Annual Package.
           kind: discount
           percentage:
             basis_points: 5000
             kind: up-to
       consideration:
         kind: variable
-        description: The startup pays the discounted Annual Package price.
+        description: The startup receives discounted pricing up to 50% off regular rates on Annual Package.
     eligibility:
       rule:
         kind: all
